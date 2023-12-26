@@ -1,13 +1,3 @@
-/*
- *
-There is a row of n coins whose values are some positive integers
-c₁, c₂,...,cn, not necessarily distinct. The goal is to pick up the
-maximum amount of money subject to the constraint that no two
-coins adjacent in the initial row can be picked up.
- *
-*/
-
-
 #include <iostream>
 # include <vector>
 using namespace std;
